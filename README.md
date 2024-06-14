@@ -1,6 +1,5 @@
 # Metro System 
 This project is a C++ implementation of a metro system path finder. It allows users to find the best and optimal route from their source station to their destination station using various algorithms.
-<br>
 <h2>Features</h2> <br>
 <h3>Optimal Path Finding:</h3> Calculates the shortest and most efficient path between two metro stations.<br> 
 <h3>Expected Fare : </h3> It calculates the expected fair from source to destination . <br>
